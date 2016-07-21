@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tensorflow"
+title:  "开始学习 Tensorflow"
 date:   2016-07-21 12:33:05 +0800
 categories: Tensorflow
 ---
