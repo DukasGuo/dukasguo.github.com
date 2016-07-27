@@ -5,7 +5,7 @@ date:   2016-07-21 12:33:05 +0800
 categories: Tensorflow
 ---
 
-tensorflow  张量流
+tensorflow  张量流 谷歌的新一代深度学习引擎
 
 - 用 graph 表示计算任务
 - 用 Session 执行图
